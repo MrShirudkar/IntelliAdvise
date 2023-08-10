@@ -1,101 +1,201 @@
 Shape,Metal,Price,Carat Weight,Color Value,Clarity Value
-Princess,Silver,37785,1.79,F,SI1
-Emerald,Silver,33380,0.76,F,VVS2
-Round,Platinum,62951,1.0,E,SI2
-Pear,Platinum,65001,0.84,D,SI1
-Round,Gold,39022,0.55,D,I1
-Emerald,Platinum,17062,1.73,E,IF
-Emerald,Silver,72286,0.72,G,SI1
-Pear,Platinum,12622,0.69,F,VS2
-Round,Gold,78506,2.32,D,SI2
-Princess,Gold,87909,1.28,E,VS2
-Oval,Gold,79010,1.2,F,SI2
-Pear,Platinum,10461,1.98,D,SI1
-Emerald,Gold,46475,0.3,E,IF
-Round,Platinum,39585,1.03,E,I1
-Oval,Platinum,70420,2.47,G,VVS1
-Emerald,Silver,47109,2.2,D,VS2
-Round,Gold,5510,1.53,F,VVS1
-Round,Silver,21118,2.48,F,VVS2
-Princess,Silver,70305,0.81,E,I1
-Princess,Platinum,80063,1.85,H,VVS2
-Pear,Platinum,21064,1.35,G,VVS2
-Princess,Platinum,40477,0.38,H,VS1
-Princess,Silver,40661,0.87,G,VVS2
-Princess,Platinum,86882,1.26,E,VS1
-Emerald,Platinum,47523,1.07,E,SI1
-Round,Silver,99801,1.11,G,SI2
-Emerald,Gold,27764,1.41,G,VVS2
-Princess,Gold,39739,1.79,E,IF
-Round,Silver,14677,0.53,F,VVS1
-Round,Gold,56574,1.06,F,VS2
-Pear,Gold,18046,1.6,E,IF
-Oval,Platinum,88043,0.51,F,VVS1
-Oval,Gold,92561,1.8,F,IF
-Pear,Gold,77356,2.32,D,I1
-Emerald,Gold,54209,1.37,G,SI1
-Round,Platinum,80469,1.92,F,I1
-Round,Platinum,22719,1.01,G,VS2
-Emerald,Platinum,17725,0.93,E,VVS2
-Pear,Gold,50149,1.6,D,VS1
-Oval,Platinum,24743,2.42,E,I1
-Round,Platinum,53508,1.16,F,VVS1
-Emerald,Platinum,82647,1.09,H,SI1
-Emerald,Silver,96058,1.62,D,IF
-Oval,Silver,61433,1.02,H,SI1
-Oval,Platinum,70389,0.89,D,IF
-Princess,Gold,67487,1.75,E,VS1
-Oval,Silver,45368,2.44,F,VVS1
-Emerald,Gold,79185,2.46,G,IF
-Round,Silver,14951,0.86,F,IF
-Round,Gold,5448,1.47,H,I1
-Oval,Gold,86944,1.96,H,IF
-Round,Platinum,45256,0.95,E,SI2
-Emerald,Silver,56781,0.58,H,I1
-Oval,Gold,92718,0.47,D,VVS1
-Emerald,Silver,84249,2.03,F,I1
-Emerald,Gold,74132,1.88,E,IF
-Princess,Platinum,51266,1.19,D,IF
-Oval,Silver,24925,0.33,E,SI2
-Princess,Platinum,43168,0.48,G,VS2
-Oval,Gold,86443,0.6,H,VVS1
-Oval,Gold,70054,1.5,G,SI1
-Oval,Silver,73710,0.41,D,I1
-Round,Gold,62221,2.15,D,IF
-Oval,Platinum,73607,0.6,E,VS2
-Princess,Platinum,79943,1.45,G,VS2
-Oval,Silver,59205,0.94,F,VVS2
-Princess,Platinum,98053,1.23,F,SI1
-Pear,Silver,51319,1.54,F,VVS1
-Princess,Silver,78984,0.62,G,VVS2
-Princess,Gold,57946,1.27,F,VS1
-Emerald,Silver,18495,0.49,F,VS2
-Emerald,Gold,93341,1.84,D,SI2
-Emerald,Silver,82169,1.08,F,SI1
-Princess,Gold,93025,0.86,G,IF
-Princess,Silver,3177,0.51,H,SI1
-Pear,Gold,66295,0.37,H,I1
-Oval,Gold,55326,2.14,D,VVS1
-Princess,Silver,53487,1.4,E,SI2
-Round,Platinum,18989,1.33,H,VVS2
-Emerald,Gold,51764,0.49,H,VS2
-Oval,Silver,89283,2.36,H,IF
-Princess,Platinum,25381,1.97,F,SI2
-Emerald,Platinum,80228,0.71,E,VS1
-Princess,Gold,62503,1.33,F,I1
-Emerald,Platinum,61136,1.36,G,SI1
-Emerald,Gold,67267,2.05,D,VVS1
-Round,Platinum,44716,0.32,D,SI1
-Round,Gold,3090,0.52,F,I1
-Princess,Silver,65475,1.56,F,VVS2
-Princess,Gold,69759,1.33,G,VS2
-Princess,Silver,47005,1.11,E,SI2
-Round,Platinum,70455,1.17,D,I1
-Oval,Silver,61733,1.84,E,I1
-Round,Silver,76217,1.45,F,VS2
-Princess,Silver,7896,0.58,F,VVS1
-Pear,Gold,18225,1.58,E,VS2
-Princess,Platinum,68378,1.81,F,VVS2
-Emerald,Platinum,19757,0.76,E,SI2
-Emerald,Platinum,13301,1.49,D,VVS1
-Princess,Platinum,23580,1.76,E,SI1
+Emerald Cut,Silver,6335,0.3,F,VS2
+Asscher Cut,Platinum,68025,1.23,G,VVS2
+Marquise Cut,Gold,67895,2.16,H,IF
+Cushion Cut,Platinum,1661,0.64,G,SI2
+Cushion Cut,Platinum,27813,0.53,H,VVS2
+Cushion Cut,Silver,51433,0.92,G,VS2
+Heart Shape,Gold,49412,1.61,G,VVS2
+Cushion Cut,Gold,78364,1.65,H,IF
+Cushion Cut,Platinum,22041,1.19,G,SI2
+Cushion Cut,Gold,12909,2.17,F,IF
+Emerald Cut,Platinum,66840,0.83,F,SI1
+Princess Cut,Platinum,78667,0.59,G,VS2
+Emerald Cut,Silver,74742,0.44,D,SI2
+Princess Cut,Platinum,10160,2.26,D,VS2
+Heart Shape,Platinum,24220,1.81,G,VS2
+Cushion Cut,Platinum,28288,0.71,H,VVS2
+Marquise Cut,Platinum,10919,1.25,H,VS1
+Heart Shape,Gold,83108,0.47,F,VS2
+Emerald Cut,Silver,12053,1.29,H,I1
+Cushion Cut,Platinum,18559,2.17,G,I1
+Marquise Cut,Silver,37353,2.27,E,VVS2
+Cushion Cut,Platinum,81452,1.23,D,I1
+Oval Cut,Gold,30647,0.69,E,VS1
+Pear Shape,Gold,36472,0.81,E,VVS1
+Heart Shape,Silver,31740,1.73,F,VVS2
+Round Brilliant,Platinum,38016,2.48,G,IF
+Asscher Cut,Silver,87352,2.4,F,SI2
+Marquise Cut,Platinum,6809,1.52,F,SI2
+Cushion Cut,Gold,5969,1.25,F,VVS2
+Princess Cut,Gold,97344,1.64,D,SI2
+Cushion Cut,Silver,74373,0.59,F,VS1
+Round Brilliant,Platinum,42948,1.62,F,VVS1
+Round Brilliant,Silver,26984,2.06,D,VVS1
+Oval Cut,Gold,9620,1.33,E,VS2
+Emerald Cut,Platinum,69299,1.86,D,VVS1
+Princess Cut,Silver,88317,1.06,E,VVS1
+Asscher Cut,Gold,83752,1.02,F,SI1
+Cushion Cut,Platinum,11028,1.59,D,VVS2
+Pear Shape,Platinum,76223,2.05,D,VVS2
+Heart Shape,Platinum,39848,1.54,E,VVS2
+Marquise Cut,Gold,81949,1.61,E,IF
+Pear Shape,Gold,14591,0.3,F,SI1
+Round Brilliant,Silver,97546,1.86,G,VVS2
+Princess Cut,Silver,88748,1.65,E,SI1
+Round Brilliant,Platinum,64773,0.71,E,IF
+Princess Cut,Platinum,56507,0.33,H,I1
+Pear Shape,Platinum,6709,1.69,D,VS2
+Oval Cut,Silver,3555,2.22,F,VS2
+Emerald Cut,Silver,99375,0.46,F,IF
+Marquise Cut,Silver,8641,1.56,H,I1
+Round Brilliant,Platinum,4953,2.01,E,VVS1
+Heart Shape,Silver,62545,0.65,D,SI2
+Heart Shape,Gold,57264,0.36,G,SI2
+Oval Cut,Platinum,43187,2.25,E,VVS1
+Princess Cut,Silver,82570,1.17,E,IF
+Oval Cut,Gold,63633,2.37,F,VVS1
+Princess Cut,Silver,89261,2.34,G,I1
+Asscher Cut,Platinum,86441,1.14,F,I1
+Round Brilliant,Gold,37211,1.66,D,VS1
+Radiant Cut,Silver,74848,2.19,D,VVS2
+Oval Cut,Silver,71038,0.8,F,SI1
+Emerald Cut,Gold,65466,1.66,F,VS2
+Oval Cut,Silver,98508,0.86,G,VS1
+Marquise Cut,Platinum,60824,0.92,G,VS2
+Heart Shape,Platinum,8899,1.12,F,VS2
+Heart Shape,Silver,94518,1.38,D,VVS2
+Radiant Cut,Gold,38309,2.42,D,IF
+Asscher Cut,Silver,52949,2.46,G,IF
+Princess Cut,Platinum,28966,1.6,H,VVS1
+Pear Shape,Gold,88224,2.43,H,SI2
+Princess Cut,Silver,73499,0.59,F,VS1
+Heart Shape,Platinum,81758,2.26,G,SI2
+Cushion Cut,Platinum,32486,2.16,E,IF
+Oval Cut,Gold,30155,2.08,E,VVS2
+Princess Cut,Silver,64618,1.66,D,VVS2
+Pear Shape,Platinum,97792,1.41,D,SI2
+Round Brilliant,Platinum,94687,2.06,D,SI2
+Emerald Cut,Platinum,32862,1.01,D,VVS2
+Asscher Cut,Gold,45129,1.23,E,VVS1
+Asscher Cut,Gold,13100,2.43,E,IF
+Asscher Cut,Platinum,36331,2.36,E,VVS1
+Cushion Cut,Gold,91383,0.57,D,IF
+Princess Cut,Silver,62822,1.95,G,VVS1
+Marquise Cut,Gold,13078,1.27,F,VS1
+Oval Cut,Platinum,96477,2.45,D,I1
+Cushion Cut,Platinum,86740,1.14,G,I1
+Round Brilliant,Silver,32165,0.99,D,IF
+Pear Shape,Silver,15171,1.88,H,VS1
+Pear Shape,Silver,77908,2.33,E,VVS2
+Cushion Cut,Platinum,17408,1.33,E,I1
+Cushion Cut,Silver,97611,1.3,F,VS1
+Heart Shape,Silver,31166,2.21,H,IF
+Pear Shape,Silver,31392,0.83,H,VS2
+Radiant Cut,Gold,77439,1.83,F,IF
+Princess Cut,Silver,84848,1.02,H,VVS1
+Radiant Cut,Platinum,97892,2.25,E,IF
+Marquise Cut,Silver,45168,2.46,H,VVS1
+Round Brilliant,Silver,31843,1.97,H,I1
+Princess Cut,Platinum,43708,1.92,D,IF
+Oval Cut,Platinum,60948,0.51,E,VVS2
+Emerald Cut,Platinum,62311,0.7,D,IF
+Asscher Cut,Silver,18186,2.01,F,VS2
+Cushion Cut,Gold,76039,1.17,F,VVS1
+Emerald Cut,Silver,30228,1.7,G,IF
+Asscher Cut,Silver,9934,0.32,F,VS1
+Marquise Cut,Silver,68727,1.74,D,VVS2
+Round Brilliant,Platinum,1642,2.1,H,VS2
+Asscher Cut,Silver,56827,2.32,H,I1
+Radiant Cut,Gold,15242,1.34,D,VVS2
+Princess Cut,Gold,8015,0.95,G,SI2
+Cushion Cut,Platinum,39423,2.47,D,VVS1
+Emerald Cut,Silver,79612,0.32,E,VS2
+Heart Shape,Gold,65227,0.91,E,VVS2
+Cushion Cut,Platinum,96788,1.32,D,VVS2
+Marquise Cut,Platinum,25549,0.46,H,SI2
+Asscher Cut,Platinum,90452,1.93,D,VVS2
+Emerald Cut,Gold,67466,1.52,F,SI2
+Asscher Cut,Gold,73321,1.11,G,IF
+Oval Cut,Platinum,86392,1.0,G,SI2
+Marquise Cut,Silver,70203,1.97,F,SI2
+Emerald Cut,Gold,72493,0.79,F,SI1
+Marquise Cut,Silver,88214,1.05,E,VVS1
+Radiant Cut,Gold,64037,1.98,G,VVS1
+Asscher Cut,Platinum,34244,2.12,F,SI2
+Emerald Cut,Silver,15669,0.8,F,VVS2
+Emerald Cut,Silver,76404,1.52,D,I1
+Heart Shape,Gold,48157,0.43,H,VVS2
+Heart Shape,Silver,42653,0.34,F,VVS1
+Princess Cut,Silver,40709,0.95,D,IF
+Heart Shape,Silver,65701,2.1,F,SI1
+Princess Cut,Silver,72770,0.76,F,I1
+Princess Cut,Platinum,69055,2.31,H,SI1
+Marquise Cut,Platinum,34314,0.95,H,VVS1
+Oval Cut,Gold,89366,1.26,F,VVS2
+Princess Cut,Gold,36606,2.22,F,VS1
+Round Brilliant,Gold,77205,1.94,G,VS1
+Princess Cut,Gold,38408,0.39,E,I1
+Cushion Cut,Gold,31933,1.17,G,I1
+Cushion Cut,Gold,93039,0.85,G,VS1
+Marquise Cut,Gold,14256,2.44,H,VS1
+Asscher Cut,Gold,83258,2.28,H,IF
+Cushion Cut,Silver,40153,1.98,G,VS2
+Asscher Cut,Silver,50661,1.16,F,SI2
+Oval Cut,Platinum,64381,0.4,E,I1
+Round Brilliant,Platinum,69174,2.27,H,VVS2
+Marquise Cut,Gold,52800,0.61,D,SI2
+Princess Cut,Gold,6186,1.02,H,IF
+Emerald Cut,Gold,81528,0.51,G,VVS1
+Heart Shape,Platinum,95289,2.46,D,SI2
+Heart Shape,Gold,61557,1.72,D,SI2
+Asscher Cut,Silver,16233,1.17,D,VS1
+Marquise Cut,Silver,97727,1.65,G,SI2
+Round Brilliant,Gold,37910,2.24,D,VVS1
+Heart Shape,Platinum,97407,1.74,D,VS1
+Cushion Cut,Platinum,96744,0.74,G,SI2
+Marquise Cut,Gold,18334,2.04,H,IF
+Marquise Cut,Platinum,98883,0.77,E,VS2
+Princess Cut,Gold,55421,1.74,D,VVS1
+Princess Cut,Gold,4905,2.01,F,I1
+Pear Shape,Gold,38931,1.34,G,VS1
+Cushion Cut,Gold,47857,0.76,D,I1
+Oval Cut,Gold,71732,1.27,D,VS1
+Round Brilliant,Gold,49232,1.79,D,VS2
+Pear Shape,Platinum,70422,2.42,H,VS2
+Heart Shape,Gold,15463,2.2,H,IF
+Round Brilliant,Gold,31197,1.57,D,VVS2
+Pear Shape,Gold,67632,2.29,D,VS2
+Emerald Cut,Silver,9566,1.9,F,VVS1
+Asscher Cut,Silver,63259,0.99,E,VVS1
+Oval Cut,Platinum,85693,1.65,F,VVS2
+Asscher Cut,Platinum,61553,2.35,F,IF
+Pear Shape,Platinum,25848,1.63,H,VVS1
+Emerald Cut,Platinum,90139,2.21,H,IF
+Oval Cut,Silver,29954,1.16,E,I1
+Heart Shape,Silver,21355,1.29,D,SI2
+Marquise Cut,Gold,61210,2.18,D,VS2
+Marquise Cut,Platinum,80393,0.35,D,VS2
+Princess Cut,Silver,31153,2.34,E,SI2
+Cushion Cut,Silver,31625,2.48,E,IF
+Asscher Cut,Silver,9740,1.47,E,VVS1
+Oval Cut,Gold,79812,1.53,D,VVS2
+Pear Shape,Gold,88074,1.59,F,SI2
+Cushion Cut,Gold,42336,1.74,F,VS1
+Pear Shape,Gold,92576,1.93,E,IF
+Asscher Cut,Gold,37942,1.29,H,VVS1
+Round Brilliant,Platinum,2258,2.3,E,SI2
+Cushion Cut,Gold,91193,1.27,G,SI1
+Princess Cut,Silver,65583,0.65,G,IF
+Marquise Cut,Platinum,36407,0.37,H,VVS1
+Emerald Cut,Silver,27184,0.83,G,VVS1
+Round Brilliant,Platinum,49554,2.24,D,SI2
+Marquise Cut,Gold,77533,0.53,D,VS1
+Heart Shape,Platinum,25505,1.71,H,I1
+Oval Cut,Silver,9947,1.27,D,VVS1
+Radiant Cut,Platinum,17910,2.26,G,VVS1
+Radiant Cut,Silver,20536,1.53,D,VVS1
+Asscher Cut,Platinum,42008,0.88,G,SI2
+Oval Cut,Platinum,58096,2.27,E,SI1
+Princess Cut,Silver,81786,1.26,F,VS2
+Princess Cut,Platinum,83435,1.56,E,IF

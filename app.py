@@ -5,8 +5,8 @@ import numpy as np
 app = Flask(__name__)
 
 # List of diamond shapes and metals
-diamond_shapes = ["Round", "Princess", "Oval", "Pear", "Emerald"]
-metals = ["Gold", "Platinum"]
+diamond_shapes = ["Round Brilliant","Princess Cut", "Cushion Cut", "Emerald Cut", "Asscher Cut", "Oval Cut", "Marquise Cut", "Pear Shape", "Heart Shape","Radiant Cut"]
+metals = ["Gold", "Platinum", "Silver"]
 
 # Function to filter diamonds based on user's shape, metal, and budget preferences
 def map_parameters(shape, metal, budget):
